@@ -1,0 +1,34 @@
+Overview
+The primary objective of the Crypto Chatbot is to provide users with real-time information and insights about cryptocurrencies, their movements, news, and prices. The chatbot will also offer explanations of projects, tokenomics, whitepapers, concepts, and strategies, as well as real-time alerts and market analysis. It will leverage GPT-4 and embeddings to deliver accurate and relevant information to users.
+
+Functional Requirements
+
+2.1 Crypto Insights and Information
+
+The chatbot must provide the latest information on crypto movements, news, and prices.
+It should be able to access data from reliable sources, such as cryptocurrency exchanges and news websites.
+2.2 Protocols and Market Analysis
+
+The chatbot must deliver information about various protocols used in the crypto ecosystem.
+It should offer market analysis, including trends, predictions, and historical data, to help users make informed decisions.
+2.3 Explanation of Projects, Tokenomics, and Whitepapers
+
+The chatbot must be able to explain various crypto projects and their objectives.
+It should provide an understanding of tokenomics, including distribution, supply, and use cases.
+The chatbot must also offer summaries and explanations of whitepapers, detailing project goals, technologies, and methodologies.
+2.4 Real-Time Alerts
+
+The chatbot must send real-time alerts to users about significant events or changes in the crypto market, such as price fluctuations, news, or project updates.
+Users should be able to customize alert preferences based on their interests and needs.
+2.5 Explanation of Concepts and Strategies
+
+The chatbot must explain various crypto-related concepts, such as blockchain, decentralization, and smart contracts.
+It should also offer insights on strategies for trading, investing, and risk management.
+2.6 Market Analysis
+
+The chatbot must provide market analysis, including trends, predictions, and historical data, to help users make informed decisions.
+It should be able to analyze data from various sources and present it in an easy-to-understand format.
+2.7 GPT-4 and Embeddings
+
+The chatbot must utilize GPT-4 and embeddings to generate human-like responses and deliver accurate and relevant information.
+It should be able to understand and respond to user queries efficiently and effectively.
